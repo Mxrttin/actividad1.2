@@ -27,7 +27,7 @@ ul{
 
 nav li{
     display: flex;
-    justify-content: center;
+    margin-left: 26rem;
 }
 
 header a {
@@ -39,10 +39,13 @@ header a {
 .gatos{
     display: flex;
     justify-content: center;
+    flex-direction: row-reverse;
 }
 
 .perros{
     display: flex;
     justify-content: center;
+    flex-direction: row-reverse;
+    margin: 1rem;
 }
 
