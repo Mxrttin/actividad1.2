@@ -51,3 +51,68 @@ header a {
     margin: 1rem;
 }
 
+.gato-1{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+
+.gato-2{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    margin-top: 1rem;
+}
+
+.gato-3{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    margin-top: 1rem;
+}
+
+.ginger{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    margin-right: 30rem ;
+    flex-direction: row-reverse;
+    
+}
+
+.ginger p {
+    margin-top: 10rem;
+    font-size: large;
+    margin-right: 3rem;
+}
+
+.tommy{
+    display: flex;
+    justify-content: center;
+    margin-top: 6rem;
+    margin-right: 30rem ;
+    flex-direction: row-reverse;
+    
+}
+
+.tommy p {
+    margin-top: 10rem;
+    font-size: large;
+    margin-right: 3rem;
+}
+
+.lucifer{
+    display: flex;
+    justify-content: center;
+    margin-top: 6rem;
+    margin-right: 30rem ;
+    flex-direction: row-reverse;
+    
+}
+
+.lucifer p {
+    margin-top: 10rem;
+    font-size: large;
+    margin-right: 3rem;
+}
+
