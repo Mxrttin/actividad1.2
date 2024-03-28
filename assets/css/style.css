@@ -1,0 +1,47 @@
+
+header h1 {
+    display: flex;
+    justify-content: center;
+    margin: 4rem;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    margin: 4rem;
+    
+}
+
+ul{
+    display: flex;
+    margin: 2rem;
+    flex-direction: column;
+    justify-content: center;
+}
+
+nav li{
+    display: flex;
+    justify-content: center;
+}
+
+header a {
+    display: flex;
+    justify-content: end;
+    padding-right: 2rem;
+}
+
+.gatos{
+    display: flex;
+    justify-content: center;
+}
+
+.perros{
+    display: flex;
+    justify-content: center;
+}
+
