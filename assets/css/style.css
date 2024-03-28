@@ -116,3 +116,25 @@ header a {
     margin-right: 3rem;
 }
 
+.perro-1{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    margin-left: 1.5rem;
+}
+
+.perro-2{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    margin-top: 1rem;
+}
+
+.perro-3{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    margin-top: 1rem;
+}
+
+
