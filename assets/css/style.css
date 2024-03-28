@@ -8,7 +8,9 @@ header h1 {
 p{
     display: flex;
     justify-content: center;
-    margin: 5rem;
+    margin-top: 3rem;
+    margin-left: 7rem;
+    margin-right: 7rem;
 }
 
 h3{
