@@ -78,25 +78,3 @@ body{
     float: left;
   
 }
-
-.colores{
-    height: 25%;
-}
-
-.colores celeste {
-    background-color: rgb(8, 220, 220);
-
-}
-
-.colores amarillo {
-    background-color: yellow;
-}
-
-.colores naranjo {
-    background-color: rgb(220, 121, 8);
-
-} 
-
-.colores rojo {
-    background-color: red;
-}
